@@ -1,0 +1,5 @@
+<?php
+
+// Netatmo2Cosm
+
+?>
