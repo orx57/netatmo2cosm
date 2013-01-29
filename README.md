@@ -3,7 +3,7 @@ netatmo2cosm
 
 **Get last measure from Netatmo device and send it to Cosm.**
 
-On [Cosm](https://cosm.com/), create a Feed for each [Netatmo](http://www.netatmo.com/) module (Internal and External) and a Datastream for each sensor (Temperature, CO2, Humidity, Pressure, Noise).
+On [Cosm](https://cosm.com/), create a Feed for each [Netatmo](http://www.netatmo.com/) module (Internal and External) and a Datastream for each sensor (Temperature, CO2, Humidity, Pressure, Noise). This script can be called via a browser or crontab. It does not display information if there is no error.
 
 Pre-required:
 
