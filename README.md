@@ -9,6 +9,7 @@ On [Cosm](https://cosm.com/), create a Feed for each [Netatmo](http://www.netatm
 **Pre-required**:
 
 * the file `Netatmo-API-PHP/NAApiClient.php` from [Netatmo/Netatmo-API-PHP · GitHub](https://github.com/Netatmo/Netatmo-API-PHP)
+* Replace all `YOUR_*` variables with your own information in `netatmo2cosm.php` file.
 
 ## Example
 
